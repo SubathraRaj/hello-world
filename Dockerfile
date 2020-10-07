@@ -1,6 +1,7 @@
 # Pull base image 
-From tomcat:8-jre8 
+From centos
 
 # Maintainer 
-MAINTAINER "valaxytech@gmail.com" 
-COPY ./webapp.war /usr/local/tomcat/webapps
+MAINTAINER "subathraraj@gmail.com"
+Run yum install vim get -y
+
